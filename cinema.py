@@ -1,11 +1,11 @@
 #################################################################
-#																#
-#					Python Ascii Cinematics						#
-#			Coded by : Rifai Akbar a.k.a PAIDJEMZ				#
-#			GitHub : https://github.com/paidjemz                #
-#			Website : https://paidjemz.wordpress.com            #
-#			Contact Me : https://t.me/rifai_akm                 #
-#																#
+#								#								#
+#			Python Ascii Cinematics			#
+#		Coded by : Rifai Akbar a.k.a PAIDJEMZ		#
+#		GitHub : https://github.com/paidjemz            #
+#		Website : https://paidjemz.wordpress.com        #
+#		Contact Me : https://t.me/rifai_akm             #
+#								#								#
 #################################################################
 
 from __future__ import division
