@@ -8,3 +8,6 @@ Sebuah program bahasa python yang berfungsi untuk menampilkan gambar serta anima
 >> sudo pip3 install -r requirements.txt
 >> python3 cinema.py
 ```
+# Donasi
+![alt text](https://pasteboard.co/J74DFOnF.jpg)
+![alt text](http://xcodeserver.my.id/gopay.png)
