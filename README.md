@@ -1,7 +1,7 @@
 # asciinematic
 Sebuah program bahasa python yang berfungsi untuk menampilkan gambar serta animasi ala cinematics via terminal linux.
 # Demo
-[![asciicast](https://asciinema.org/a/327100.png)](https://asciinema.org/a/327100)
+[![asciicast](https://asciinema.org/a/327100.png)](https://asciinema.org/a/327100?autoplay=1&loop=1)
 # Install
 ```
 >> git clone https://github.com/paidjemz/asciinematic && cd asciinematic
@@ -9,5 +9,6 @@ Sebuah program bahasa python yang berfungsi untuk menampilkan gambar serta anima
 >> python3 cinema.py
 ```
 # Donasi
-![alt text](https://pasteboard.co/J74DFOnF.jpg)
+![donate](https://paidjemz.files.wordpress.com/2020/05/gopayy.png)
+<br/>
 ![alt text](http://xcodeserver.my.id/gopay.png)
